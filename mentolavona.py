@@ -1,3 +1,4 @@
+# FLUSWAIR | GITHUB.COM/FSWAIR
 import time
 a = input("Telefon numaranı giriniz..:")
 b = input("Biriciğinizin, Telefon numarasını giriniz..:")
