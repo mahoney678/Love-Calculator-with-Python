@@ -1,7 +1,7 @@
 # FLUSWAIR | GITHUB.COM/FSWAIR
 import time
 a = input("Telefon numaranı giriniz..:")
-b = input("Biriciğinizin, Telefon numarasını giriniz..:")
+b = input("Diğer Telefon numarasını giriniz..:")
 c = []
 for i in a:
   c.append(a[a.index(i)])
